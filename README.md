@@ -41,6 +41,16 @@
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 November 2024 - To: 08 September 2025
+
+Java                       47 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Python                     36 hrs 10 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+JavaScript                 21 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Kotlin                     18 hrs 45 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+```
+
 <!--END_SECTION:waka-->
 
 
