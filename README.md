@@ -40,7 +40,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ashwin-Iyer1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashwin-Iyer1&icon=0&color=0)](https://visitcount.itsvg.in)
-
