@@ -52,6 +52,6 @@ Kotlin                     18 hrs 45 mins  █▓░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-
+<!--Profile Count Badge-->
+<img src="https://komarev.com/ghpvc/?username=Ashwin-Iyer1&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ashwin-Iyer1" style="padding-right:20px;" />
 ---
