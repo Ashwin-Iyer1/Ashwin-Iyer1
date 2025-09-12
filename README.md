@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 10 September 2025
+From: 01 November 2024 - To: 11 September 2025
 
-Java                       47 hrs 54 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Python                     36 hrs 25 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-JavaScript                 21 hrs 23 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Java                       48 hrs 42 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+Python                     36 hrs 25 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+JavaScript                 21 hrs 25 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:waka-->
