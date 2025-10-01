@@ -33,24 +33,13 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Iyer1&theme=dark&hide_border=false)<br/> 
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Iyer1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Iyer1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turtlecap1324&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats))
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashwin-Iyer1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 01 November 2024 - To: 30 September 2025
-
-Java                       71 hrs 48 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Python                     37 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-JavaScript                 25 hrs 41 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Kotlin                     18 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-```
-
-<!--END_SECTION:waka-->
 <!--Profile Count Badge-->
 <img src="https://komarev.com/ghpvc/?username=Ashwin-Iyer1&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ashwin-Iyer1" style="padding-right:20px;" />
