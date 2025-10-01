@@ -35,7 +35,7 @@
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Iyer1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turtlecap1324&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats))
+[![Turtlecap1324's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turtlecap1324&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashwin-Iyer1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
