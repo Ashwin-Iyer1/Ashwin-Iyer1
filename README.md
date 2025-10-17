@@ -1,5 +1,6 @@
 # Hi there, I am Ashwin Iyer
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-iyer-949028263/) [![Email Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=blue&labelColor=white&color=blue)](mailto:ashwiniyer06@gmail.com) [![Portfolio](https://img.shields.io/badge/PORTFOLIO%20-black?logo=rocket&logoWidth=20)](https://ashwiniyer.com/)
+<img src="https://komarev.com/ghpvc/?username=Ashwin-Iyer1" alt="Ashwin-Iyer1" style="padding-right:20px;" />
 
 ## [![My Resume](https://img.shields.io/badge/Resume-PDF-red)](https://ashwiniyer.com/resume)
 
@@ -40,6 +41,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashwin-Iyer1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
-
-<!--Profile Count Badge-->
-<img src="https://komarev.com/ghpvc/?username=Ashwin-Iyer1&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ashwin-Iyer1" style="padding-right:20px;" />
